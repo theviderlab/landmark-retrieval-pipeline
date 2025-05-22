@@ -102,11 +102,10 @@ git clone https://github.com/theviderlab/landmark-retrieval-pipeline.git .
 
 ```bash
 cd assets/weights
-# Descargar manualmente desde:
-# [Peso de CVNet en Google Drive](https://drive.google.com/uc?%20export=download&id=1JAFwsVUr5JpQo3_Rhxd-V9FGdN4j8el0)
-# y colocar el archivo en este directorio
 ```
-
+Descargar manualmente desde:
+[Peso de CVNet en Google Drive](https://drive.google.com/uc?%20export=download&id=1JAFwsVUr5JpQo3_Rhxd-V9FGdN4j8el0)
+y colocar el archivo en este directorio
 ---
 
 ## 🗂️ Descargar dataset (Open Images)
